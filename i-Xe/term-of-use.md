@@ -124,7 +124,7 @@ Chúng tôi có quyền cập nhật Điều Khoản Sử Dụng này. Khi có t
 
 --- 
 ## 10. Quyền riêng tư và bảo mật
-Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng quyền trợ năng và quyền đọc thông báo chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.
+Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng các quyền chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.
 
 ---
 
@@ -133,6 +133,7 @@ Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng. Việc
 Nếu bạn có câu hỏi về Điều Khoản Sử Dụng này:
 
 **Email:** levietanh.work@gmail.com
+
 **Địa chỉ:** Việt Nam
 
 ---
