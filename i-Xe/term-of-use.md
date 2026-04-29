@@ -1,8 +1,11 @@
 # Điều Khoản Sử Dụng — iXe
 
 **Cập nhật lần cuối:** 16/04/2026
+
 **Áp dụng cho:** Ứng dụng iXe (iOS & Android)
+
 **Nhà phát triển:** iXe Team
+
 **Liên hệ:** levietanh.work@gmail.com
 
 ---
@@ -21,7 +24,8 @@ iXe là công cụ hỗ trợ cá nhân dành cho tài xế, cho phép:
 - Nhận thông báo và đọc thông tin cuốc xe bằng giọng nói
 
 **iXe không phải sản phẩm của Zalo/VNG Corporation và không được VNG Corporation chứng thực.**
-Ixe cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng quyền trợ năng và quyền đọc thông báo chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.
+
+**Ixe cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng quyền trợ năng và quyền đọc thông báo chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.**
 ---
 
 ## 3. Điều kiện sử dụng
