@@ -122,8 +122,10 @@ Chúng tôi có quyền tạm khóa hoặc xóa tài khoản **không cần báo
 
 Chúng tôi có quyền cập nhật Điều Khoản Sử Dụng này. Khi có thay đổi quan trọng, chúng tôi sẽ thông báo trong ứng dụng trước ít nhất **7 ngày**. Việc tiếp tục sử dụng sau thời hạn thông báo đồng nghĩa với việc bạn chấp nhận điều khoản mới.
 
+--- 
 ## 10. Quyền riêng tư và bảo mật
-I-Xe cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng quyền trợ năng và quyền đọc thông báo chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.
+Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng quyền trợ năng và quyền đọc thông báo chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.
+
 ---
 
 ## 11. Liên hệ
