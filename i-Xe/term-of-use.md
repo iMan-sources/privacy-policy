@@ -25,7 +25,6 @@ iXe là công cụ hỗ trợ cá nhân dành cho tài xế, cho phép:
 
 **iXe không phải sản phẩm của Zalo/VNG Corporation và không được VNG Corporation chứng thực.**
 
-**Ixe cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng quyền trợ năng và quyền đọc thông báo chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.**
 ---
 
 ## 3. Điều kiện sử dụng
@@ -123,12 +122,8 @@ Chúng tôi có quyền tạm khóa hoặc xóa tài khoản **không cần báo
 
 Chúng tôi có quyền cập nhật Điều Khoản Sử Dụng này. Khi có thay đổi quan trọng, chúng tôi sẽ thông báo trong ứng dụng trước ít nhất **7 ngày**. Việc tiếp tục sử dụng sau thời hạn thông báo đồng nghĩa với việc bạn chấp nhận điều khoản mới.
 
----
-
-## 10. Luật áp dụng
-
-Điều Khoản Sử Dụng này được điều chỉnh bởi pháp luật **Cộng hòa Xã hội Chủ nghĩa Việt Nam**. Mọi tranh chấp phát sinh sẽ được giải quyết tại tòa án có thẩm quyền tại Việt Nam.
-
+## 10. Quyền riêng tư và bảo mật
+I-Xe cam kết bảo vệ quyền riêng tư của người dùng. Việc sử dụng quyền trợ năng và quyền đọc thông báo chỉ nhằm mục đích tự động hóa theo cài đặt của người dùng.
 ---
 
 ## 11. Liên hệ
