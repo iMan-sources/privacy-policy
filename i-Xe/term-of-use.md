@@ -71,7 +71,6 @@ Gói dịch vụ **không tự động gia hạn**. Bạn cần chủ động gi
 
 iXe cung cấp thời gian dùng thử miễn phí có giới hạn. Sau khi hết thời gian dùng thử:
 - Tốc độ xử lý thông báo cuốc xe sẽ bị giới hạn (có độ trễ).
-- Tính năng TTS (đọc cuốc xe bằng giọng nói) yêu cầu gói Premium.
 - Các tính năng cơ bản vẫn hoạt động với độ trễ theo cấu hình hệ thống.
 
 ---
