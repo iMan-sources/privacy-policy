@@ -52,7 +52,7 @@ Bạn không được:
 iXe cung cấp các gói đăng ký trả phí (Tuần / Tháng / Năm) sau thời gian dùng thử miễn phí. Giá và thời hạn được hiển thị trong ứng dụng và có thể thay đổi.
 
 ### 4.2 Phương thức thanh toán
-Thanh toán thực hiện qua **chuyển khoản ngân hàng** thông qua cổng thanh toán SePay. Đơn hàng có hiệu lực trong **30 phút** kể từ khi tạo. Sau thời hạn, đơn hàng tự động hủy và bạn cần tạo đơn mới.
+Thanh toán thực hiện qua **chuyển khoản ngân hàng**. Đơn hàng có hiệu lực trong **30 phút** kể từ khi tạo. Sau thời hạn, đơn hàng tự động hủy và bạn cần tạo đơn mới.
 
 ### 4.3 Kích hoạt gói
 Gói dịch vụ được kích hoạt **tự động** sau khi hệ thống xác nhận giao dịch thành công (thường trong vòng 5 phút). Nếu đã chuyển khoản nhưng chưa được kích hoạt sau 30 phút, vui lòng liên hệ hỗ trợ kèm ảnh chụp màn hình giao dịch.
