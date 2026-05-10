@@ -6,7 +6,7 @@
 
 **Nhà phát triển:** iXe Team
 
-**Liên hệ:** zalo: 0943088731
+**Liên hệ:**: 0943088731
 
 ---
 
@@ -131,7 +131,7 @@ Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng. Việc
 
 Nếu bạn có câu hỏi về Điều Khoản Sử Dụng này:
 
-**Email:** levietanh.work@gmail.com
+**Zalo:** 0943088731
 
 **Địa chỉ:** Việt Nam
 
