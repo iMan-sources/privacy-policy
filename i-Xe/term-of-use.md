@@ -92,7 +92,7 @@ iXe sử dụng AI để nhận diện cuốc xe từ tin nhắn văn bản. Ch�
 Chúng tôi không đảm bảo dịch vụ hoạt động liên tục, không bị gián đoạn. iXe phụ thuộc vào nền tảng Zalo — nếu Zalo thay đổi API hoặc chính sách, dịch vụ có thể bị ảnh hưởng ngoài tầm kiểm soát của chúng tôi.
 
 ### 7.3 Rủi ro tài khoản Zalo
-iXe hoạt động bằng cách kết nối với tài khoản Zalo cá nhân của bạn thông qua phiên đăng nhập (session). Việc sử dụng ứng dụng bên thứ ba kết nối vào Zalo có thể vi phạm Điều khoản Dịch vụ của Zalo và dẫn đến:
+Việc sử dụng ứng dụng bên thứ ba kết nối vào Zalo có thể vi phạm Điều khoản Dịch vụ của Zalo và dẫn đến:
 - Tài khoản Zalo bị tạm khóa hoặc khóa vĩnh viễn
 - Bị giới hạn một số tính năng trên Zalo
 - Yêu cầu xác minh lại danh tính từ Zalo
@@ -107,7 +107,7 @@ Chúng tôi không chịu trách nhiệm về việc sử dụng ứng dụng v�
 ## 8. Chấm dứt tài khoản
 
 ### 8.1 Chấm dứt từ phía bạn
-Bạn có thể ngừng sử dụng và yêu cầu xóa tài khoản bất kỳ lúc nào bằng cách liên hệ support@xeghep.app. Việc xóa tài khoản không đồng nghĩa với việc hoàn tiền gói còn hiệu lực.
+Bạn có thể ngừng sử dụng và yêu cầu xóa tài khoản bất kỳ lúc nào bằng cách liên hệ zalo: 0943088731 . Việc xóa tài khoản không đồng nghĩa với việc hoàn tiền gói còn hiệu lực.
 
 ### 8.2 Chấm dứt từ phía chúng tôi
 Chúng tôi có quyền tạm khóa hoặc xóa tài khoản **không cần báo trước** nếu:
